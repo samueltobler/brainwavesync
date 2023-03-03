@@ -9,7 +9,7 @@ The **`brainwavesync`** package allows analyzing large EEG data sets to find clu
 ``` r
 library(devtools)
 devtools::install_github("samueltobler/brainwavesync", force = TRUE)
-library(behavdata)
+library(brainwavesync)
 ```
 
 ## Citation
