@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **`brainwavesync`** package allows analyzing large EEG data sets to find clusters of synchronized EEG channels among groups of participants. See the `brainsync.Rd`
+The **`brainwavesync`** package allows analyzing large EEG data sets to find clusters of synchronized EEG channels among groups of participants. See the `brainsync.Rd` for detailed explanations.
 
 ## Installation
 
