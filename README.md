@@ -16,4 +16,4 @@ library(brainwavesync)
 
 To cite the repository **`brainwavesync`** in publications, please use:
 
-Tobler, S., & Poikonen, H., Gashaj, V., Trninić, T., Formaz, C., & Kapur, M. (2023). Synchronous Brain Activities in Mathematical Task Processing. [Accepted for publication in the Proceedings of the 17th International Conference of the Learning Sciences (ICLS 2023). Montréal, Canada.] http://hdl.handle.net/20.500.11850/601020
+Tobler, S., & Poikonen, H., Gashaj, V., Trninić, T., Formaz, C., & Kapur, M. (2023). Synchronous Brain Activities in Mathematical Task Processing. Proceedings of the 17th International Conference of the Learning Sciences (ICLS 2023). Montréal, Canada. http://hdl.handle.net/20.500.11850/601020
